@@ -1,0 +1,19 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-11-14T22:05:44.890539116+03:00"
+from:
+  id-type: crev
+  id: lG1-xDK8CVjLT57y1ObAknojlJ2Fp8jxEkNXkwLiVk0
+  url: "https://github.com/johnlepikhin/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: |-
+  dpc - автор(?) системы crev
+----- SIGN CREV PROOF -----
+8_dorvF7Gz2KPW284NVoJsHg9kTJosU2v4Zc59QBZIJD6pN947HeB9S0a4rbgikVcFn6n069822mdbCwwB8FCA
+----- END CREV PROOF -----
+
