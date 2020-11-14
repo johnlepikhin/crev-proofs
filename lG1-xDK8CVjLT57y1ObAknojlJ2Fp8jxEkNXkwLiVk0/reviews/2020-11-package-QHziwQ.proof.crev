@@ -1,0 +1,21 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-11-14T22:21:18.838414664+03:00"
+from:
+  id-type: crev
+  id: lG1-xDK8CVjLT57y1ObAknojlJ2Fp8jxEkNXkwLiVk0
+  url: "https://github.com/johnlepikhin/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: matches
+  version: 0.1.8
+  digest: wEgXzIZmN2BvT4dl90vyR0WVYgLwYc0BETwLJ_ySYOc
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+wqOAr4_yXHuz8_JCDCIKusLjsOSBnhzkviBG1S1UgRvP2szD3qCr2sPpjY5Pev0t3UsLfHFSMVVYj5J6LaQkBg
+----- END CREV PROOF -----
+
