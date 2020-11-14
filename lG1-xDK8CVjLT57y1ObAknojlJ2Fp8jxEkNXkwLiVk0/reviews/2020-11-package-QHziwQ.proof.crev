@@ -62,3 +62,25 @@ review:
 nDgp1gaD1Emmehh5PO3r2IRqpiTZ-mhnHT4KPe_AjBMvyRhdU7IinFfmOq7Q9SQ1afWBOqPhsNP5c_LsDQABAA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-11-14T22:52:13.220209205+03:00"
+from:
+  id-type: crev
+  id: lG1-xDK8CVjLT57y1ObAknojlJ2Fp8jxEkNXkwLiVk0
+  url: "https://github.com/johnlepikhin/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: opaque-debug
+  version: 0.3.0
+  revision: 16464056b59eeb223318ad36de9b01eeb06c0c6b
+  digest: LtaMnxSS4IjmvywLjEl64tSAaarayj_nimlTIzUlm48
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+GO92w4-dhJWP8eblB3zVcuUMMPom3_Xn1vDnzQ5xWQ7HU32umDAyC0k3wCAtbfjDt9w1G0UexeHuYGpGNspmDg
+----- END CREV PROOF -----
+
